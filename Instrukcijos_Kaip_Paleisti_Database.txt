@@ -1,0 +1,1 @@
+Per netbeans services >>> Databases >>> desinys peles mygtukas and Java DB tada paspaudziama properties ir nurodomas kelias kuris yra projekto folderyje >>> SveikatosSistema ir spausti connect. Username ir paswd: sveikuoliai
